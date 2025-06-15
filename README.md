@@ -14,6 +14,6 @@
 ![spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=fff)
 ![git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
 
-I'm currently working with data engineering at Accenture Brazil. I'm also a college student combining Swarm Intelligence and Reinforcement Learning.
+I'm currently working with Data Engineering at Accenture Brazil. I'm also a college student combining Swarm Intelligence and Reinforcement Learning.
 
 Feel free to contact me: [LinkedIn](https://www.linkedin.com/in/kaiovsbarbosa/) =)
